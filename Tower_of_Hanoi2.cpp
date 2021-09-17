@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-//MD Al Arman Sorker - 200101059
 static int c;
 void move(int n,char A,char B,char C)
 {
